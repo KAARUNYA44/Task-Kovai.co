@@ -1,4 +1,4 @@
-Actionable Insights (Expanded)
+Actionable Insights
 1. Local Route Demand Rising — Increase Fleet Availability
 
 Observation:
